@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>CFG PROJECT</title>
-    </head>
+
     <body>
-    <div class="navbar navbar-default ">
+<div class="navbar navbar-default ">
     <div class="container">
 		<a class="navbar-brand" href="index.php">Laptop-Store</a>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -23,5 +21,18 @@
 			</div>
         </div>
     </div>
-</body>
+                                <form action="login_submit.php" method="POST">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control"  placeholder="Email" name="e-mail" required = "true">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" class="form-control" placeholder="Password" name="password" required = "true">
+                                    </div>
+                                    <button type="submit" name="submit" class="btn btn-primary">Login</button><br><br>
+									<?php if(isset($_GET['error'])){echo $_GET['error'];}?>
+                                </form><br/>
+                            </div>
+                            <div><p>Don't have an account? <a href="signup.php">Register</a></p></div>
+                       			
+    </body>
 </html>
