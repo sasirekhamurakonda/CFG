@@ -1,10 +1,6 @@
-<!DOCTYPE html>  
- <html>  
-      <head>  
-           <title>Convert Data from Mysql to JSON Format using PHP</title>  
-      </head>  
-      <body>  
+
            <?php   
+		   header('Content-Type: application/json');
            $connect = mysqli_connect("localhost", "root", "", "eggs");  
            $sql = "SELECT area,yearcode,value FROM `supply` WHERE unit='tonnes' and yearcode > '1999'";  
            $result = mysqli_query($connect, $sql);  
@@ -15,5 +11,3 @@
            }   
            echo json_encode($json_array); 
            ?>  
-      </body>  
- </html>  
