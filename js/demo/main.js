@@ -6,12 +6,6 @@ $(document).ready(function(){
     
 });
 function getExportData(){
-    /*$.getJSON("http://www.7timer.info/bin/astro.php?lon=113.2&lat=23.1&ac=0&unit=metric&output=json&tzshift=0", function(result){
-    $.getJSON("http://106.0.36.170:8080/just/json.php", function(result){
-        sampleData=result; 
-        console.log(sampleData);
-    updateChartArea(); 
-    });*/
     $.ajax({
         type: "GET",
         url: 'http://localhost/cfg/json.php',
@@ -20,7 +14,8 @@ function getExportData(){
                       if( !('error' in obj) ) {
                           exportData = obj;
                           console.log(obj);
-                          updateChartArea("India")
+                          updateCountries();
+                          updateChartArea(exportData[0].area)
                       }
                       else {
                           console.log(obj.error);
@@ -28,10 +23,21 @@ function getExportData(){
                 }
     });
 }
+function updateCountries(){
+    var countryObj={}
+    $.each(exportData, function(key, value) {    
+        countryObj[value.area]=1;
+        });
+        for(var prop in countryObj){
+            
+        $("<option />").val(prop).text(prop).appendTo("#ids");
+
+        
+        }
+}
 function updateChartArea(countryName){
-    console.log(exportData)
     $.each(exportData,function(index,value){
-    if(value.area=="India")
+    if(value.area==countryName)
         {
            
             yearsArray.push(value.year)
@@ -40,7 +46,5 @@ function updateChartArea(countryName){
        
 
       })
-      console.log(yearsArray)
-    console.log(exportsArray)
     drawExportChart();
 }

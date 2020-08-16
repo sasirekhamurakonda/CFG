@@ -315,13 +315,8 @@
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                   <h6 class="m-0 font-weight-bold text-primary">Exports</h6>
-                  <select>
-                    <option value="India"> 
-                      India
-                    </option>
-                    <option value="China"> 
-                      China
-                    </option>
+                  <select id="ids" onChange="updateChartArea(this.value)">
+                    
                   </select>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -584,6 +579,7 @@
   <script src="js/demo/chart-area-demo.js"></script>
   <script src="js/demo/chart-pie-demo.js"></script>
   <script src="js/demo/main.js"></script> 
+
 </body>
 
 </html>
