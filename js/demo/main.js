@@ -13,7 +13,6 @@ function getExportData(){
         success: function (obj, textstatus) {
                       if( !('error' in obj) ) {
                           exportData = obj;
-                          console.log(obj);
                           updateCountries();
                           updateChartArea(exportData[0].area)
                       }

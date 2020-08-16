@@ -30,7 +30,7 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
-        <div class="sidebar-brand-text mx-3">back</div>
+        <div class="sidebar-brand-text mx-3">Sight and Life Foundation</div>
       </a>
 
       <!-- Divider -->
@@ -339,7 +339,35 @@
                 </div>
               </div>
             </div>
-
+            <div class="col-xl-8 col-lg-7">
+              <div class="card shadow mb-4">
+                
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-primary">Exports</h6>
+                  <select id="id2" onChange="updateChartArea2(this.value)">
+                    
+                  </select>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">Dropdown Header:</div>
+                      <a class="dropdown-item" href="#">Action</a>
+                      <a class="dropdown-item" href="#">Another action</a>
+                      <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" href="#">Something else here</a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="exportChart2"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
             <!-- Pie Chart -->
             <div class="col-xl-4 col-lg-5">
               <div class="card shadow mb-4">
@@ -577,8 +605,10 @@
   <!-- Page level custom scripts -->
   
   <script src="js/demo/chart-area-demo.js"></script>
+  <script src="js/demo/chart-area-demo2.js"></script>
   <script src="js/demo/chart-pie-demo.js"></script>
   <script src="js/demo/main.js"></script> 
+  <script src="js/demo/main2.js"></script> 
 
 </body>
 
