@@ -14,7 +14,7 @@ function getExportData(){
     });*/
     $.ajax({
         type: "GET",
-        url: 'http://localhost/just/json.php',
+        url: 'http://localhost/cfg/json.php',
         dataType: 'json',
         success: function (obj, textstatus) {
                       if( !('error' in obj) ) {
