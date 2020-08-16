@@ -1,0 +1,925 @@
+ISO code,Country and areas,Year*,Region,Sub-region,Region,Region,Sub-region,Region,Income Group,Region,Severe wasting,Wasting,Overweight,Stunting,Underweight,Severe wasting
+AFG,AFGHANISTAN,1997,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Low Income,South Asia,4,846,,18.2,6.5,53.2
+AFG,AFGHANISTAN,2004,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Low Income,South Asia,946,3.5,8.6,4.6,59.3,32.9
+AFG,AFGHANISTAN,2013,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Low Income,South Asia,44,26,469,4,9.5,5.3
+AFG,AFGHANISTAN,2018,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Low Income,South Asia,19,539,1.6,5.1,4.1,38.2
+ALB,ALBANIA,1997,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,7,642,,8.1,9.5,20.4
+ALB,ALBANIA,2000,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,382,6.2,12.2,30.1,39.2
+ALB,ALBANIA,2005,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,90,3.7,7.3,24.8,26.7
+ALB,ALBANIA,2009,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,489,5.9,9.6,23.2,23.2
+ALB,ALBANIA,2017,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,367,0.5,1.6,16.4,11.3
+DZA,ALGERIA,1987,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,2,344,,4,,16.9
+DZA,ALGERIA,1992,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,4,629,3,7.1,8.7,22.9
+DZA,ALGERIA,1995,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,3,825,4.2,9.6,13.2,22.5
+DZA,ALGERIA,2000,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,4,178,1.1,3.1,14.7,23.6
+DZA,ALGERIA,2002,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,4,357,5,9.6,15.1,24
+DZA,ALGERIA,2006,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,13,885,1.7,4.1,12.9,15.4
+DZA,ALGERIA,2012,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,AFRO,Upper Middle Income,Middle East & North Africa,13,860,1.4,4.1,12.4,11.7
+AGO,ANGOLA,1996,Africa,Middle Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,534,1.8,7.7,1.7,61.1
+AGO,ANGOLA,2007,Africa,Middle Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,10,224,4.3,8.2,,29.2
+AGO,ANGOLA,2015,Africa,Middle Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,7,468,1.1,4.9,3.4,37.6
+ARG,ARGENTINA,1994,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,5,296,,1.6,11.1,7.1
+ARG,ARGENTINA,1996,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,91,943,,4.2,13.5,16.9
+ARG,ARGENTINA,2005,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,9,99,999,0.2,1.2,9.9
+ARG,ARGENTINA,2019,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,1.6,13.6,7.9,1.7
+ARM,ARMENIA,1998,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,241,1,3.3,10.8,15.1
+ARM,ARMENIA,2000,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,486,0.7,2.5,15.7,17.3
+ARM,ARMENIA,2005,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,377,2.6,5.4,11.4,17.9
+ARM,ARMENIA,2010,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,411,2,4.1,16.5,20.9
+ARM,ARMENIA,2016,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,609,1.7,4.4,13.7,9.4
+AUS,AUSTRALIA,1995,Oceania,Australia and New Zealand,Australia and New Zealand,EAP,EAP,WPRO,High Income,East Asia & Pacific,10,36,810,,0,7.9
+AUS,AUSTRALIA,2007,Oceania,Australia and New Zealand,Australia and New Zealand,EAP,EAP,WPRO,High Income,East Asia & Pacific,1,7,0,0,7.7,2
+AUS,AUSTRALIA,2014,Oceania,Australia and New Zealand,Australia and New Zealand,EAP,EAP,WPRO,High Income,East Asia & Pacific,,,,17.9,,
+AUS,AUSTRALIA,2017,Oceania,Australia and New Zealand,Australia and New Zealand,EAP,EAP,WPRO,High Income,East Asia & Pacific,,,,22,,
+AZE,AZERBAIJAN,1996,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,500,,3.8,6.1,28,8.8
+AZE,AZERBAIJAN,2000,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,787,4.1,9,6.2,24.2
+AZE,AZERBAIJAN,2001,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,426,,3.2,4.4,18
+AZE,AZERBAIJAN,2006,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,125,2.2,6.8,13.9,26.5
+AZE,AZERBAIJAN,2011,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,,2.9,6.6,10.4,16.4,6.5
+AZE,AZERBAIJAN,2013,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,36,13,423,1.1,3.2,14.1
+BHR,BAHRAIN,1989,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,2,33,,6.8,7.5,13.9
+BHR,BAHRAIN,1995,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,673,,6.6,,13.6,7.6
+BGD,BANGLADESH,1986,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,2,675,,17.3,0.2,70.9
+BGD,BANGLADESH,1990,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,1,914,,17.5,0.6,63.4
+BGD,BANGLADESH,1991,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,32,493,2.6,15.2,0.3,73.6
+BGD,BANGLADESH,1992,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,36,997,3,16.1,0.2,71.5
+BGD,BANGLADESH,1993,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,42,826,2.5,14,0.4,69.2
+BGD,BANGLADESH,1994,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,63,753,3.2,16.7,0.2,67.3
+BGD,BANGLADESH,1995,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,87,51,2.7,15.1,0.2,65.8
+BGD,BANGLADESH,1996,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,81,67,2.8,15.5,0.3,63.8
+BGD,BANGLADESH,1997,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,5,204,6.8,20.7,2.4,59.6
+BGD,BANGLADESH,1998,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,49,496,2.3,15,0.2,59.3
+BGD,BANGLADESH,1999,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,49,374,2,13.7,0.6,59.9
+BGD,BANGLADESH,2000,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,6,7,2.5,12.5,0.9,51.1
+BGD,BANGLADESH,2001,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,63,444,2.3,12.7,0.9,53.2
+BGD,BANGLADESH,2002,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,53,315,2.1,12.4,1,51.4
+BGD,BANGLADESH,2003,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,86,999,2.1,12.5,1,47.8
+BGD,BANGLADESH,2004,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,6,253,3.5,14.6,0.9,50.5
+BGD,BANGLADESH,2005,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,74,758,1.9,11.8,1,45.9
+BGD,BANGLADESH,2006,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,24,302,1.6,11.9,0.8,45.1
+BGD,BANGLADESH,2007,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,5,488,2.9,17.5,1.1,43.2
+BGD,BANGLADESH,2011,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,8,170,4.1,15.7,1.9,41.3
+BGD,BANGLADESH,2013,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,19,921,1.6,9.6,1.6,42
+BGD,BANGLADESH,2013,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,4,29,4.9,18.1,2.6,38.7
+BGD,BANGLADESH,2014,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,7,642,3.2,14.4,1.6,36.2
+BGD,BANGLADESH,2018,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,8,335,1.5,8.4,2.2,30.8
+BRB,BARBADOS,2012,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,403,2,6.8,12.2,7.7,3.5
+BLR,BELARUS,2005,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,31,0.6,2.2,9.7,4.5
+BLZ,BELIZE,1992,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,8,516,,,,
+BLZ,BELIZE,2006,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,722,0.8,1.9,13.6,22,5
+BLZ,BELIZE,2011,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,809,1.2,3.3,7.9,19.3
+BLZ,BELIZE,2015,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,426,0.5,1.8,7.3,15
+BEN,BENIN,1996,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,2,601,4.6,12.3,2.4,39.1
+BEN,BENIN,2001,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,158,3.1,9,3.1,36.2
+BEN,BENIN,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,12,25,0.9,4.5,1.7,34
+BEN,BENIN,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,12,832,1.1,5,1.9,32.2
+BTN,BHUTAN,1987,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,3,273,,5.2,3.5,60.9
+BTN,BHUTAN,1999,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,2,996,0.8,2.5,3.9,47.7
+BTN,BHUTAN,2008,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,2,160,1.4,4.5,5.4,34.9
+BTN,BHUTAN,2010,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,6,71,2,5.9,7.6,33.5
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1988,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,1,51,481,,,
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1989,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,2,563,0.5,1.5,7.4,44
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1990,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,4,90,699,,,
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1991,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,5,36,952,,,
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1992,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,6,66,872,,,
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1994,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,2,730,1.2,3.6,6.7,37.1
+BOL,BOLIVIA (PLURINATIONAL STATE OF),1998,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,5,993,0.7,1.6,10.7,33.2
+BOL,BOLIVIA (PLURINATIONAL STATE OF),2003,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,9,986,0.6,1.7,9.2,32.4
+BOL,BOLIVIA (PLURINATIONAL STATE OF),2008,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,8,565,0.5,1.4,8.7,27.1
+BOL,BOLIVIA (PLURINATIONAL STATE OF),2012,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,7,10,318,0.5,1.5,7.4
+BOL,BOLIVIA (PLURINATIONAL STATE OF),2016,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,5,250,0.9,2,10.1,16.1
+BIH,BOSNIA AND HERZEGOVINA,2000,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,598,3.5,7.4,16.3,12.1
+BIH,BOSNIA AND HERZEGOVINA,2006,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,158,1.5,4,25.7,11.8
+BIH,BOSNIA AND HERZEGOVINA,2012,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,199,1.6,2.3,17.4,8.9
+BWA,BOTSWANA,1996,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,,,13.2,,35.1,15.1
+BWA,BOTSWANA,2000,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,1,77,285,2.7,5.9,10.1
+BWA,BOTSWANA,2007,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,2,639,3,7.3,10,28.9
+BRA,BRAZIL,1989,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,63,79,83,0.9,2.4
+BRA,BRAZIL,1996,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,4,139,1,2.8,6.1,13
+BRA,BRAZIL,2002,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,,,,3.7
+BRA,BRAZIL,2007,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,27,54,59,0.4,1.8
+BRN,BRUNEI DARUSSALAM,2009,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,High Income,East Asia & Pacific,1,126,0.4,2.9,8.3,19.7
+BGR,BULGARIA,2004,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,315,1.3,3.2,13.6,8.8,1.6
+BGR,BULGARIA,2007,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,,0.8,4.5,6.6,6.6,2.5
+BGR,BULGARIA,2014,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,,2.5,6.3,6.9,7,1.9
+BFA,BURKINA FASO,1993,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,557,5.9,15.4,2.8,38.7
+BFA,BURKINA FASO,1999,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,941,5.6,15.5,1.9,41.4
+BFA,BURKINA FASO,2003,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,9,290,9.7,21.2,5.4,43.1
+BFA,BURKINA FASO,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,321,12.1,24.4,7,40
+BFA,BURKINA FASO,2009,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,,2.7,11.3,,35.1,26
+BFA,BURKINA FASO,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,222,5.9,15.5,2.8,34.7
+BFA,BURKINA FASO,2011,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,47,337,2.2,10.4,0.7,34.6
+BFA,BURKINA FASO,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,18,172,1.8,10.7,0.6,32.8
+BFA,BURKINA FASO,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,15,311,1.6,8.1,0.8,31.3
+BFA,BURKINA FASO,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,15,879,1.7,8.5,1.1,29
+BFA,BURKINA FASO,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,9,684,1.4,7.5,1.2,26.8
+BFA,BURKINA FASO,2017,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,19,504,1.9,8.6,1.7,21.1
+BFA,BURKINA FASO,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,23,869,1.7,8.4,1,24.9
+BDI,BURUNDI,1987,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,1,956,1.3,6.7,1.3,56.2
+BDI,BURUNDI,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,2,345,1.6,8.1,1.5,64
+BDI,BURUNDI,2005,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,7,65,,9,,57.7
+BDI,BURUNDI,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,646,1.4,6,2.9,57.6
+BDI,BURUNDI,2016,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,6,464,0.9,5.1,1.4,55.9
+BDI,BURUNDI,2019,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,12,64,1,4.8,2.8,54
+CPV,CABO VERDE,1985,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,9,450,,4.2,,26.8
+CPV,CABO VERDE,1994,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,610,,6.9,,21.4
+KHM,CAMBODIA,1996,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,773,4.5,13.4,6.5,58.6
+KHM,CAMBODIA,2000,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,617,7.5,17.1,4,49
+KHM,CAMBODIA,2005,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,696,1.8,8.5,1.6,42.8
+KHM,CAMBODIA,2008,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,4,98,33,504,1.9,9.1
+KHM,CAMBODIA,2010,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,4,87,2.7,11,1.9,39.8
+KHM,CAMBODIA,2014,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,5,2.5,9.7,2.2,32.4
+CMR,CAMEROON,1991,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,421,1.1,4.5,4.7,31.6
+CMR,CAMEROON,1998,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,70,1.8,6.2,8.2,38.2
+CMR,CAMEROON,2004,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,867,2.3,6.2,8.7,35.6
+CMR,CAMEROON,2006,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,77,2.6,7.6,10.5,37.6
+CMR,CAMEROON,2011,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,15,2,5.7,6.5,32.6
+CMR,CAMEROON,2014,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,776,1.3,5.2,6.7,31.7
+CMR,CAMEROON,2018,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,343,1.6,4.3,11,28.9
+CAN,CANADA,2004,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,,,10.4,,
+CAF,CENTRAL AFRICAN REPUBLIC,1994,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,2,448,2.6,8.7,3.7,41.5
+CAF,CENTRAL AFRICAN REPUBLIC,2000,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,11,700,4.7,10.4,10.8,44.4
+CAF,CENTRAL AFRICAN REPUBLIC,2006,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,775,5,12.1,8.6,43.6
+CAF,CENTRAL AFRICAN REPUBLIC,2010,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,10,232,1.9,7.4,1.8,40.7
+CAF,CENTRAL AFRICAN REPUBLIC,2012,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,15,458,1.6,7.4,2,39.7
+CAF,CENTRAL AFRICAN REPUBLIC,2018,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,15,466,1.6,6.5,1,37.5
+TCD,CHAD,1997,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,913,6.1,16.5,2.7,44.5
+TCD,CHAD,2000,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,191,4.2,13.9,2.7,38.9
+TCD,CHAD,2004,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,872,6.5,16.2,4.2,44.4
+TCD,CHAD,2010,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,12,706,6.3,16.3,2.8,38.7
+TCD,CHAD,2015,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,11,253,4.4,13.3,2.8,39.8
+CHL,CHILE,1986,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,1,96,467,,0.7,15.4
+CHL,CHILE,1994,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,11,81,816,,0.5,10.1
+CHL,CHILE,1995,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,,,0.5,10.9,3.9,0.8
+CHL,CHILE,1996,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,11,48,353,,0.5,10.7
+CHL,CHILE,1998,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,10,63,64,,0.6,11.2
+CHL,CHILE,1999,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,10,31,657,,0.5,11.9
+CHL,CHILE,2001,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,10,2,454,,0.5,12.9
+CHL,CHILE,2002,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,10,22,552,,0.5,12
+CHL,CHILE,2003,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,10,22,896,,0.5,12.1
+CHL,CHILE,2004,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,10,8,335,,0.5,12.1
+CHL,CHILE,2006,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,9,73,578,,0.5,11.7
+CHL,CHILE,2007,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,9,46,528,,0.3,9.8
+CHL,CHILE,2008,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,9,64,33,,0.3,9.5
+CHL,CHILE,2013,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,9,88,663,,0.3,10.1
+CHL,CHILE,2014,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,8,39,435,,0.3,9.3
+CHN,CHINA,1987,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,76,130,,4.8,,38.3
+CHN,CHINA,1990,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,4,332,1.4,4.2,5.3,32.3
+CHN,CHINA,1992,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,5,535,1.3,3.9,7.2,38
+CHN,CHINA,1995,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,2,832,1.8,5,13.6,31.2
+CHN,CHINA,1998,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,13,838,0.6,2.4,5.5,19.8
+CHN,CHINA,2000,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,16,460,0.5,2.5,3.4,17.8
+CHN,CHINA,2002,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,16,564,0.8,3,9.2,21.8
+CHN,CHINA,2005,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,15,987,0.8,2.9,5.9,11.7
+CHN,CHINA,2008,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,10,726,0.6,2.6,5.8,9.8
+CHN,CHINA,2009,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,10,635,0.7,2.6,5.7,9
+CHN,CHINA,2010,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,15,399,0.7,2.3,6.6,9.4
+CHN,CHINA,2013,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,28,839,,1.9,9.1,8.1
+COL,COLOMBIA,1986,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,317,0.3,1,4.2,26.6
+COL,COLOMBIA,1989,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,973,,3.8,,21.8
+COL,COLOMBIA,1995,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,4,458,0.5,1.7,4.5,19.6
+COL,COLOMBIA,2000,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,4,119,0.4,1,5.3,18.2
+COL,COLOMBIA,2004,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,12,752,0.4,1.6,4.2,16
+COL,COLOMBIA,2010,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,15,775,0.2,0.9,4.8,12.6
+COL,COLOMBIA,2016,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,38,22,42,0.4,1.6,5.7
+COM,COMOROS,1992,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,954,,5.3,,38.5
+COM,COMOROS,1996,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,5,4.5,10.7,5.3,40
+COM,COMOROS,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,314,7.2,13.3,21.5,46.9
+COM,COMOROS,2012,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,169,4.5,11.2,10.6,31.1
+COG,CONGO,1987,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,429,,6.6,1.6,30.1
+COG,CONGO,2005,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,697,3,8,8.5,31.2
+COG,CONGO,2011,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,648,1.7,6,3.5,24.4
+COG,CONGO,2014,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,8,757,2.6,8.2,5.9,21.2
+CRI,COSTA RICA,1989,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,97,0,,,
+CRI,COSTA RICA,1990,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,90,0,,,
+CRI,COSTA RICA,1991,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,91,0,,,
+CRI,COSTA RICA,1992,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,76,935,,,
+CRI,COSTA RICA,1993,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,74,0,,,
+CRI,COSTA RICA,1994,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,61,0,,,
+CRI,COSTA RICA,1996,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,8,,2.4,9.5,8.2
+CRI,COSTA RICA,2008,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,1,8.1,5.6,1.1
+CUB,CUBA,2000,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,571,,2.4,,7
+CZE,CZECHIA,1991,Europe,Eastern Europe,Northern America and Europe,ECA,WE,EURO,High Income,Europe & Central Asia,32,345,,2.8,6.7,3.1
+CZE,CZECHIA,2001,Europe,Eastern Europe,Northern America and Europe,ECA,WE,EURO,High Income,Europe & Central Asia,16,469,1,4.6,4.4,2.7
+CIV,CôTE D'IVOIRE,1986,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,947,,10.3,,22.5
+CIV,CôTE D'IVOIRE,1994,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,486,2.2,8.3,2.5,34.2
+CIV,CôTE D'IVOIRE,1998,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,690,1.9,6.9,4.6,31.2
+CIV,CôTE D'IVOIRE,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,8,482,3.1,8.4,9.1,41.3
+CIV,CôTE D'IVOIRE,2007,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,854,5.4,14,4.9,39,29.4
+CIV,CôTE D'IVOIRE,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,681,1.8,7.6,3.2,29.9
+CIV,CôTE D'IVOIRE,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,8,809,1.2,6.1,1.5,21.6
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,1998,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,1,263,,20.8,,63.9
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,2000,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,4,175,,12.2,,51
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,2002,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,5,297,3.5,8.7,0.9,44.7
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,2004,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,4,795,,8.5,,43.1
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,2009,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,2,172,0.5,5.2,0,32.4
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,2012,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,,0.6,4,,27.9,15.2
+PRK,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,2017,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Low Income,East Asia & Pacific,2,271,0.5,2.5,2.3,19.1
+COD,DEMOCRATIC REPUBLIC OF THE CONGO,1995,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,362,,11.4,,51
+COD,DEMOCRATIC REPUBLIC OF THE CONGO,2001,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,9,150,6.1,15.9,6.7,44.4
+COD,DEMOCRATIC REPUBLIC OF THE CONGO,2007,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,149,4.8,10.4,7,45.8
+COD,DEMOCRATIC REPUBLIC OF THE CONGO,2010,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,10,774,2.8,8.5,4.9,43.4
+COD,DEMOCRATIC REPUBLIC OF THE CONGO,2013,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,9,397,2.9,8.1,4.4,42.7
+DJI,DJIBOUTI,1989,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Lower Middle Income,Middle East & North Africa,3,750,,12.5,,28
+DJI,DJIBOUTI,1996,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Lower Middle Income,Middle East & North Africa,,,14.9,,31.7,16
+DJI,DJIBOUTI,2002,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Lower Middle Income,Middle East & North Africa,1,425,9.6,19.4,8.4,27.1
+DJI,DJIBOUTI,2012,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Lower Middle Income,Middle East & North Africa,3,153,9.2,21.5,8.1,33.5
+DOM,DOMINICAN REPUBLIC,1986,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,794,1,3.3,3.8,20.4
+DOM,DOMINICAN REPUBLIC,1991,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,991,0.6,2.1,4.3,21.1
+DOM,DOMINICAN REPUBLIC,1996,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,565,0.6,2,6.7,13.5
+DOM,DOMINICAN REPUBLIC,2000,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,869,0.5,1.5,6.9,7.7
+DOM,DOMINICAN REPUBLIC,2002,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,10,666,0.8,2.2,8.6,11.6
+DOM,DOMINICAN REPUBLIC,2006,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,782,,1.9,7.4,10.5
+DOM,DOMINICAN REPUBLIC,2007,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,10,770,0.9,2.3,8.3,10.1
+DOM,DOMINICAN REPUBLIC,2013,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,667,0.8,2.4,7.6,7.1
+ECU,ECUADOR,1986,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,7,798,,2.3,,40.2
+ECU,ECUADOR,1999,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,13,68,536,0.4,2.7,2.6
+ECU,ECUADOR,2004,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,5,263,0.7,2,5.3,29.2
+ECU,ECUADOR,2006,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,14,38,765,0.5,2.1,5.2
+ECU,ECUADOR,2012,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,16,21,518,0.7,2.4,7.5
+ECU,ECUADOR,2014,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,15,23,946,0.6,1.6,8
+EGY,EGYPT,1988,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,2,77,0.6,1.9,6.9,34
+EGY,EGYPT,1991,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,3,614,2.3,4.5,14.9,34.9
+EGY,EGYPT,1992,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,7,644,1.8,4,14.3,31.1
+EGY,EGYPT,1995,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,10,226,2.3,5.7,14.6,34.8
+EGY,EGYPT,1998,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,3,328,,7.5,,30.9
+EGY,EGYPT,1998,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,3,997,,6.4,,26.3
+EGY,EGYPT,2000,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,10,519,,,,24.4
+EGY,EGYPT,2003,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,5,940,1.8,5.2,9.2,20.2
+EGY,EGYPT,2005,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,12,828,2.5,5.3,14.1,23.9
+EGY,EGYPT,2008,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,10,47,3.8,7.9,20.4,30.7
+EGY,EGYPT,2014,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,14,899,4.8,9.5,15.7,22.3
+SLV,EL SALVADOR,1988,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,2,2,0.5,2.2,3,36.7
+SLV,EL SALVADOR,1993,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,7,787,0.5,1.5,3.7,31.6
+SLV,EL SALVADOR,1998,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,13,788,0.4,1.5,3.9,32.3
+SLV,EL SALVADOR,2003,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,6,368,0.3,1.3,5.8,24.6
+SLV,EL SALVADOR,2008,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,6,5,724,0.5,1.6,5.7
+SLV,EL SALVADOR,2014,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,7,229,0.4,2.1,6.4,13.6
+GNQ,EQUATORIAL GUINEA,1997,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Upper Middle Income,Sub-Saharan Africa,,2.5,4,3.4,38.7,13.8
+GNQ,EQUATORIAL GUINEA,2000,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Upper Middle Income,Sub-Saharan Africa,2,429,4.2,9.2,14,42.7
+GNQ,EQUATORIAL GUINEA,2004,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Upper Middle Income,Sub-Saharan Africa,33,334,1.3,2.8,8.3,35
+GNQ,EQUATORIAL GUINEA,2011,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Upper Middle Income,Sub-Saharan Africa,1,94,1.7,3.1,9.7,26.2
+ERI,ERITREA,1993,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,,,11.8,,69.6,36.9
+ERI,ERITREA,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,2,371,5.1,17,1.3,47.8
+ERI,ERITREA,2002,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,721,4.8,15,1.6,43
+ERI,ERITREA,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,6,634,4,14.6,2.1,52.5
+SWZ,ESWATINI,2000,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,406,0.7,1.7,14.9,36.5
+SWZ,ESWATINI,2006,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,29,1.2,2.9,11.1,29.2
+SWZ,ESWATINI,2008,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,,0.3,1.1,,40.4,7.3
+SWZ,ESWATINI,2010,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,572,0.4,0.8,10.7,30.9
+SWZ,ESWATINI,2014,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,641,0.4,2,9,25.5
+ETH,ETHIOPIA,1992,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,20,230,,9.2,,66.9
+ETH,ETHIOPIA,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,901,3.8,12.4,2,57.4
+ETH,ETHIOPIA,2005,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,15,4.7,12.4,5.1,50
+ETH,ETHIOPIA,2011,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,11,224,2.9,9.8,1.8,44.4
+ETH,ETHIOPIA,2014,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,921,2.5,8.7,2.6,40.4
+ETH,ETHIOPIA,2016,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,550,3,10,2.9,38.3
+ETH,ETHIOPIA,2019,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,990,1.2,7.2,2.1,36.8
+FJI,FIJI,1993,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,618,,9.8,2.2,4.3,6.9
+FJI,FIJI,2004,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,818,2,6.3,5.1,7.5,5.3
+GAB,GABON,2000,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Upper Middle Income,Sub-Saharan Africa,3,179,1.5,4.2,5.5,25.9
+GAB,GABON,2012,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Upper Middle Income,Sub-Saharan Africa,3,999,1.3,3.4,7.7,17
+GMB,GAMBIA,1996,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,2,401,,,,36.1
+GMB,GAMBIA,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,2,596,2.5,9.1,3,24.1
+GMB,GAMBIA,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,6,421,1.8,7.4,2.7,27.7
+GMB,GAMBIA,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,11,480,2.1,9.5,1.9,23.4
+GMB,GAMBIA,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,218,1.6,9.5,1.1,21.1
+GMB,GAMBIA,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,680,4.3,11,3.2,24.6
+GMB,GAMBIA,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,9,779,1,6.2,1.2,19
+GMB,GAMBIA,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,1,330,1.3,6,2.5,13.6
+GEO,GEORGIA,1999,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,434,,3.1,17.9,16.1
+GEO,GEORGIA,2005,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,924,1.1,3,20.8,14.6
+GEO,GEORGIA,2009,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,,0.6,1.6,19.9,11.3,1.1
+DEU,GERMANY,2004,Europe,Western Europe,Northern America and Europe,ECA,WE,EURO,High Income,Europe & Central Asia,4,667,0.1,1,3.5,1.3
+DEU,GERMANY,2016,Europe,Western Europe,Northern America and Europe,ECA,WE,EURO,High Income,Europe & Central Asia,,,0.3,3.2,1.7,0.5
+GHA,GHANA,1988,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,934,1.6,7,0.8,42.6
+GHA,GHANA,1993,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,970,3.8,10.9,2.5,41.2
+GHA,GHANA,1998,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,657,2.5,9.9,2.7,30.6
+GHA,GHANA,2003,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,356,2.8,8.4,4.5,35.5
+GHA,GHANA,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,237,1.8,6,2.6,27.9
+GHA,GHANA,2008,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,708,2.4,8.7,5.7,28.4
+GHA,GHANA,2011,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,7,373,1.4,6.2,2.6,22.8
+GHA,GHANA,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,911,0.7,4.7,2.6,18.8
+GHA,GHANA,2017,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,8,665,1.1,6.8,1.4,17.5
+GTM,GUATEMALA,1987,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,227,0.4,1.9,2.4,66.2
+GTM,GUATEMALA,1995,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,8,28,1.5,3.8,6.2,55.4
+GTM,GUATEMALA,1999,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,762,1.4,2.9,6.9,53.1
+GTM,GUATEMALA,2000,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,16,84,954,1.6,3.7,7.3
+GTM,GUATEMALA,2002,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,5,625,0.8,1.9,5.2,54.8
+GTM,GUATEMALA,2009,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,9,332,0.2,1,4.9,51.5
+GTM,GUATEMALA,2015,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,12,609,0.1,0.8,4.9,46.7
+GIN,GUINEA,1994,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,542,,14,,35.3
+GIN,GUINEA,1999,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,98,4,9.7,4.4,31.1
+GIN,GUINEA,2005,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,2,903,4.2,11,5.2,39.3
+GIN,GUINEA,2007,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,428,2.4,7.2,6.4,34
+GIN,GUINEA,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,997,1.1,5.1,3,34.4
+GIN,GUINEA,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,674,4.1,10,3.8,31.1
+GIN,GUINEA,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,138,2.9,8.1,4,32.4
+GIN,GUINEA,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,35,3.6,9.2,5.6,30.3
+GNB,GUINEA-BISSAU,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,497,4.8,11.8,5,33.8
+GNB,GUINEA-BISSAU,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,282,4.5,8.8,16.9,47.7
+GNB,GUINEA-BISSAU,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,12,213,1,5.9,2.8,32
+GNB,GUINEA-BISSAU,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,7,460,1.4,6,2.3,27.6
+GUY,GUYANA,1993,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,581,,,,,16.1
+GUY,GUYANA,1997,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,289,,13.3,1.9,14,10.3
+GUY,GUYANA,2000,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,562,4.3,12.1,5.5,13.9
+GUY,GUYANA,2006,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,267,2.6,8.3,6.8,17.9
+GUY,GUYANA,2009,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,656,1.2,5.5,6.7,19.3
+GUY,GUYANA,2014,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,134,1.7,6.4,5.3,11.3
+HTI,HAITI,1990,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Low Income,Latin America & Caribbean,1,843,,5.9,,40.1
+HTI,HAITI,1994,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Low Income,Latin America & Caribbean,2,914,3,9.3,4.3,37.1
+HTI,HAITI,2000,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Low Income,Latin America & Caribbean,6,263,1.5,5.5,3.1,28.8
+HTI,HAITI,2006,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Low Income,Latin America & Caribbean,2,905,3.3,10.2,3.9,29.6
+HTI,HAITI,2012,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Low Income,Latin America & Caribbean,4,591,1.3,5.1,3.6,22
+HTI,HAITI,2017,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Low Income,Latin America & Caribbean,6,646,0.8,3.7,3.4,21.9
+HND,HONDURAS,1987,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,3,244,,2.3,2.7,43.3
+HND,HONDURAS,1991,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,5,485,0.5,2.4,3,42.7
+HND,HONDURAS,1994,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,1,875,,2.7,,45.7
+HND,HONDURAS,1996,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,1,456,0.3,1.6,2.8,38.6
+HND,HONDURAS,2001,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,5,663,0.2,1.3,3,35.5
+HND,HONDURAS,2006,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,9,733,0.3,1.4,5.8,29.8
+HND,HONDURAS,2012,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,10,254,0.3,1.4,5.2,22.6
+IND,INDIA,1989,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,13,548,,20.3,,62.7
+IND,INDIA,1991,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,2,948,,20,,61.9
+IND,INDIA,1992,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,38,418,7,19.9,2.9,57.7
+IND,INDIA,1997,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,22,959,,18.4,5.9,45.9
+IND,INDIA,1999,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,26,403,5.7,17.1,2.9,54.2
+IND,INDIA,2006,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,49,149,6.8,20,1.9,47.8
+IND,INDIA,2014,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,,4.6,15.1,,38.7,29.4
+IND,INDIA,2015,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,2,30,488,7.7,20.8,2.4
+IND,INDIA,2017,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Lower Middle Income,South Asia,36,533,4.9,17.3,1.6,34.7
+IDN,INDONESIA,1987,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,28,169,,,,
+IDN,INDONESIA,1989,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,14,101,,,,
+IDN,INDONESIA,1992,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,33,742,,,,
+IDN,INDONESIA,1996,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,9,227,,14.9,6.5,48.1
+IDN,INDONESIA,1998,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,25,505,,,,
+IDN,INDONESIA,1999,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,78,849,,,,
+IDN,INDONESIA,2000,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,1,6,147,0.9,5.5,1.5
+IDN,INDONESIA,2001,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,96,417,0.8,5.4,1.5,41.6
+IDN,INDONESIA,2002,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,74,360,,,,
+IDN,INDONESIA,2003,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,77,110,,,,
+IDN,INDONESIA,2004,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,3,116,5.1,14.4,5.1,28.6
+IDN,INDONESIA,2005,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,94,652,,,,
+IDN,INDONESIA,2007,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,77,808,6.8,14.8,11.2,40.1
+IDN,INDONESIA,2010,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,18,768,5.4,12.3,12.3,39.2
+IDN,INDONESIA,2013,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,75,232,6.7,13.5,11.5,36.4
+IDN,INDONESIA,2018,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,,3.5,10.2,8,30.8,17.7
+IRN,IRAN (ISLAMIC REPUBLIC OF),1995,Asia,Southern Asia,Central Asia and Southern Asia,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,11,139,,8.1,5.5,24.4
+IRN,IRAN (ISLAMIC REPUBLIC OF),1998,Asia,Southern Asia,Central Asia and Southern Asia,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,2,536,,6.1,6.9,20.4
+IRN,IRAN (ISLAMIC REPUBLIC OF),2004,Asia,Southern Asia,Central Asia and Southern Asia,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,34,200,,4.8,,7.1
+IRN,IRAN (ISLAMIC REPUBLIC OF),2010,Asia,Southern Asia,Central Asia and Southern Asia,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,,1.4,4,,6.8,4.1
+IRQ,IRAQ,1991,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,2,565,,4.4,,27.6
+IRQ,IRAQ,2000,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,14,188,2.4,6.6,5.5,28.1
+IRQ,IRAQ,2003,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,,,5.6,,33.7,10.1
+IRQ,IRAQ,2004,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,16,464,,6.9,,20
+IRQ,IRAQ,2006,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,16,263,2.7,5.8,15,27.5
+IRQ,IRAQ,2011,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,35,633,2.7,6.5,11.4,22.1
+IRQ,IRAQ,2018,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,16,502,0.9,3,6.1,12.6
+JAM,JAMAICA,1989,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,860,,4.4,,12.4,6.3
+JAM,JAMAICA,1991,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,709,1.2,5.5,2.3,11.8,5.6
+JAM,JAMAICA,1992,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,798,0.3,2.7,3.1,14.4
+JAM,JAMAICA,1993,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,910,2.6,4.4,4.6,12.6,6.1
+JAM,JAMAICA,1994,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,951,0.9,3,6.2,12.1,4.6
+JAM,JAMAICA,1995,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,976,0.8,4.8,5.9,9.7,4.8
+JAM,JAMAICA,1996,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,980,0.1,2.5,3.8,11.2,5.6
+JAM,JAMAICA,1997,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,918,0.3,2.2,5.5,8.7,3.5
+JAM,JAMAICA,1998,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,321,0.9,2.6,4.3,9.5
+JAM,JAMAICA,1999,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,736,0.9,2.4,6.3,5.7,2.1
+JAM,JAMAICA,2000,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,732,1.5,3,7.3,7.2,3.9
+JAM,JAMAICA,2001,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,582,1,3.2,5.8,6.6,4
+JAM,JAMAICA,2002,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,251,0.7,2.4,8.5,8.2
+JAM,JAMAICA,2004,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,793,1.1,4.5,7.5,4.9,3.1
+JAM,JAMAICA,2006,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,615,0.9,3.7,6.1,7.5,4.8
+JAM,JAMAICA,2007,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,665,1.2,2.7,8.7,5.4,1.8
+JAM,JAMAICA,2008,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,581,0.3,2.5,7.8,6.9
+JAM,JAMAICA,2010,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,592,1.5,4.8,4.1,6,3.4
+JAM,JAMAICA,2012,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,740,0.8,3,7.8,6.8
+JAM,JAMAICA,2014,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,584,0.5,3.6,8.3,6,2.2
+JPN,JAPAN,2010,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,High Income,East Asia & Pacific,6,643,0.2,2.3,1.5,7.1
+JOR,JORDAN,1990,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,6,762,1.5,4,8.5,20
+JOR,JORDAN,1997,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,5,651,0.6,2.4,4.3,11.1
+JOR,JORDAN,2002,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,4,762,0.8,2.5,4.5,11.7
+JOR,JORDAN,2009,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,4,118,0.2,1.6,6.6,8.2
+JOR,JORDAN,2012,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,5,924,0.7,2.4,4.7,7.8
+KAZ,KAZAKHSTAN,1995,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,729,1.8,6.4,4.1,23.3,4.4
+KAZ,KAZAKHSTAN,1999,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,625,1,2.5,4.9,13.2,3.8
+KAZ,KAZAKHSTAN,2006,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,4,400,2.3,4.9,16.9,17.5
+KAZ,KAZAKHSTAN,2010,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,5,15,1.7,4.1,13.3,13.1
+KAZ,KAZAKHSTAN,2015,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,5,304,1.1,3.1,9.3,8
+KEN,KENYA,1987,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,957,,5.5,,37
+KEN,KENYA,1993,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,6,2.6,7.1,5.8,40.2
+KEN,KENYA,1994,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,37,12,355,2.4,6.8,5.1
+KEN,KENYA,1998,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,50,3.1,7.2,5.8,37.4
+KEN,KENYA,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,418,2.9,7.4,8.1,40.8
+KEN,KENYA,2003,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,544,2.4,6.2,5.8,35.8
+KEN,KENYA,2005,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,38,18,246,2.4,6.9,7.9
+KEN,KENYA,2008,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,705,2.1,6.9,5,35.5
+KEN,KENYA,2014,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,19,250,1,4.2,4.1,26.2
+KIR,KIRIBATI,1985,Oceania,Micronesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,941,,12.6,15.9,34.4
+KIR,KIRIBATI,2009,Oceania,Micronesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,44,,,,
+KWT,KUWAIT,1996,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,12,376,,1.7,8.9,5
+KWT,KUWAIT,2001,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,878,0.4,2.2,11,4
+KWT,KUWAIT,2002,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,3,842,0.5,2.2,6.6,3.6
+KWT,KUWAIT,2003,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,308,0.7,2.6,6.8,3.9
+KWT,KUWAIT,2004,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,381,1.1,3.4,7.1,4.1
+KWT,KUWAIT,2005,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,5,601,1,3.3,7.5,4.5
+KWT,KUWAIT,2006,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,3,422,0.6,2.8,8.7,4.6
+KWT,KUWAIT,2007,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,3,949,0.8,3.6,8.5,5.1
+KWT,KUWAIT,2008,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,199,0.5,2.2,9.3,5.1
+KWT,KUWAIT,2009,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,99,0.3,1.8,9,3.8
+KWT,KUWAIT,2010,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,62,0.6,2.4,7.8,4.1
+KWT,KUWAIT,2011,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,200,0.4,1.7,8.3,4
+KWT,KUWAIT,2012,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,3,860,0.6,2.4,9.5,4.3
+KWT,KUWAIT,2013,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,3,571,0.7,2.7,7.8,4.8
+KWT,KUWAIT,2014,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,2,864,0.6,2.4,8.7,5.8
+KWT,KUWAIT,2015,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,3,571,,3.1,6,4.9
+KWT,KUWAIT,2016,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,,,2.4,6.8,5.9,
+KWT,KUWAIT,2017,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,,,2.5,5.5,6.4,
+KGZ,KYRGYZSTAN,1997,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,1,34,0.8,2.9,8.1,36.2
+KGZ,KYRGYZSTAN,2006,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,2,944,1,3.4,10.7,18.1
+KGZ,KYRGYZSTAN,2009,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,,0.3,1.3,4.4,22.6,4.7
+KGZ,KYRGYZSTAN,2012,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,4,421,1.3,2.8,8.9,17.9
+KGZ,KYRGYZSTAN,2014,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,4,441,0.8,2.8,7,12.9
+KGZ,KYRGYZSTAN,2018,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,3,440,0.7,2,6.9,11.8
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,1993,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,365,,11.8,,53.6
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,1994,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,950,,12.3,,52.9
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,2000,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,421,7.5,17.5,2.7,47.5
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,2006,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,992,1.7,7.4,1.3,47.7
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,2011,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,10,814,1.4,5.9,2,44.2
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,2015,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,29,999,2.4,9.7,2.5,35.5
+LAO,LAO PEOPLE'S DEMOCRATIC REPUBLIC,2017,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,11,555,3,9,3.5,33.1
+LBN,LEBANON,1996,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,1,824,1.6,3.6,20.8,17.2
+LBN,LEBANON,2004,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,1,128,2.9,6.6,16.7,16.5
+LSO,LESOTHO,1992,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,687,,3.2,,39.2
+LSO,LESOTHO,1993,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,449,,22.4,,37.5,18.9
+LSO,LESOTHO,2000,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,530,3,6.8,21,52.7
+LSO,LESOTHO,2004,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,754,2.2,5.6,6.7,44.7
+LSO,LESOTHO,2009,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,138,1.5,3.8,7.3,39.3
+LSO,LESOTHO,2014,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,914,0.6,2.8,7.5,33.4
+LSO,LESOTHO,2018,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,171,0.8,2.1,6.6,34.6
+LBR,LIBERIA,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,46,34,2.2,7.4,4.6,45.3
+LBR,LIBERIA,2007,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,441,3,7.9,4.2,39.6
+LBR,LIBERIA,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,6,395,1,4,2.7,39
+LBR,LIBERIA,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,625,2,5.6,3.2,32.1
+LBR,LIBERIA,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,925,0.7,4.3,2.7,30.1
+LBY,LIBYA,1995,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,4,681,1.5,3.6,13.4,21.1
+LBY,LIBYA,2007,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,10,723,2.9,6.5,22.4,21
+LBY,LIBYA,2014,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Upper Middle Income,Middle East & North Africa,9,876,5.3,10.2,29.6,38.1
+MDG,MADAGASCAR,1992,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,319,1.2,6.4,1.6,60.5
+MDG,MADAGASCAR,1993,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,131,,16.4,,54.1
+MDG,MADAGASCAR,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,49,,9,,55.2
+MDG,MADAGASCAR,1997,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,331,2.5,8.9,2.2,58.2
+MDG,MADAGASCAR,2004,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,766,5.6,15.1,6.2,52.7
+MDG,MADAGASCAR,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,830,,,,49.4
+MDG,MADAGASCAR,2012,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,835,0.9,7.5,1.1,48.9
+MDG,MADAGASCAR,2018,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,12,481,1,6.4,1.4,41.6
+MWI,MALAWI,1992,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,419,2.1,6.6,9.8,55.4
+MWI,MALAWI,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,654,,8.5,,53.8
+MWI,MALAWI,1998,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,38,651,4.1,8.7,17.3
+MWI,MALAWI,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,728,2.9,6.8,8.8,54.7
+MWI,MALAWI,2002,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,16,82,992,2.5,6.3,10
+MWI,MALAWI,2004,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,9,440,3.2,6.3,10.2,52.5
+MWI,MALAWI,2006,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,22,348,1.5,4.2,11.3,53.1
+MWI,MALAWI,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,,0.3,1.8,4.9,48.8,12.1
+MWI,MALAWI,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,167,1.5,4,9,47.3
+MWI,MALAWI,2014,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,18,523,1.1,3.8,5.1,42.4
+MWI,MALAWI,2015,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,786,0.6,2.8,4.6,37.4
+MWI,MALAWI,2016,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,2,785,0.4,2.4,2.3,44.2
+MWI,MALAWI,2016,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,621,0.6,3.9,1.5,38.3
+MWI,MALAWI,2017,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,,0.3,2.2,,,11.2
+MWI,MALAWI,2018,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,216,0.1,1.3,2.5,39
+MYS,MALAYSIA,1990,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,3,16,306,,,
+MYS,MALAYSIA,1991,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,3,23,299,,,
+MYS,MALAYSIA,1992,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,3,25,469,,,
+MYS,MALAYSIA,1993,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,3,13,246,,,
+MYS,MALAYSIA,1994,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,3,17,551,,,
+MYS,MALAYSIA,1995,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,3,44,736,,,
+MYS,MALAYSIA,1999,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,5,108,,15.3,5.5,20.7
+MYS,MALAYSIA,2006,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,5,546,,,,17.2
+MYS,MALAYSIA,2015,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,2,486,,8,7.1,17.7
+MYS,MALAYSIA,2016,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,,,11.5,6,20.7,13.7
+MDV,MALDIVES,1994,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,1,995,3.5,16.1,1.2,36.1
+MDV,MALDIVES,1995,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,798,,18.9,2.2,33,39
+MDV,MALDIVES,1997,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,1,486,9.2,19.9,9.8,43
+MDV,MALDIVES,2001,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,746,3.5,13.4,3.9,31.9,25.7
+MDV,MALDIVES,2009,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,2,840,2.7,10.6,6.2,19
+MLI,MALI,1987,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,1,525,3.2,11.3,0.5,35.8
+MLI,MALI,1996,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,987,9.8,22,2.3,39.9
+MLI,MALI,2001,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,10,568,4.2,12.6,3.1,42.5
+MLI,MALI,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,12,602,6.1,15.4,4.6,37.6
+MLI,MALI,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,22,931,1.9,8.9,1,27.8
+MLI,MALI,2015,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,14,941,3.4,13.5,1.9,30.4
+MLI,MALI,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,9,743,2.6,9,2,26.9
+MHL,MARSHALL ISLANDS,2017,Oceania,Micronesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,876,1.1,3.5,4.1,34.8,11.9
+MRT,MAURITANIA,1988,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,931,,19.1,,40.2,
+MRT,MAURITANIA,1990,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,294,8,17.4,6.8,54.6
+MRT,MAURITANIA,1996,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,733,,8.7,,49.8
+MRT,MAURITANIA,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,824,7.2,15.3,3.8,38.6
+MRT,MAURITANIA,2007,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,8,107,3.8,13.6,2.3,31.5
+MRT,MAURITANIA,2008,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,58,861,1.1,8.1,1
+MRT,MAURITANIA,2011,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,8,520,4,13.9,3.2,29.7
+MRT,MAURITANIA,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,573,1.9,11.7,1.2,23
+MRT,MAURITANIA,2015,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,9,926,3.5,14.8,1.3,27.9
+MRT,MAURITANIA,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,13,620,2.3,11.5,1.5,22.8
+MUS,MAURITIUS,1985,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,2,430,,18.3,8.8,27.3
+MUS,MAURITIUS,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,1,537,,15.7,6.5,13.6
+MEX,MEXICO,1988,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,82,68,127,2.1,6.1,6
+MEX,MEXICO,1989,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,14,932,1.7,6.1,11,26
+MEX,MEXICO,1996,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,31,601,,8.5,,25.8
+MEX,MEXICO,1998,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,1,25,945,0.7,2
+MEX,MEXICO,2006,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,94,0,75,0.4,2,7.5
+MEX,MEXICO,2012,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,7,47,724,0.4,1.6
+MEX,MEXICO,2015,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,7,806,0.4,1,5.2,12.4
+MEX,MEXICO,2016,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,10,93,877,0.3,2
+MNG,MONGOLIA,1992,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,679,,2.4,,33.1
+MNG,MONGOLIA,1999,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,4,146,1.9,4.3,7,30.1
+MNG,MONGOLIA,2000,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,918,3,7.1,12.7,29.8
+MNG,MONGOLIA,2004,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,247,0.1,0.6,6.1,23.5
+MNG,MONGOLIA,2005,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,357,1.1,2.7,14.2,27.5
+MNG,MONGOLIA,2010,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,13,90,978,0.5,1.8
+MNG,MONGOLIA,2013,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,744,0.4,1,10.5,10.8
+MNG,MONGOLIA,2016,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,243,0.4,1.2,11.7,7.3
+MNG,MONGOLIA,2018,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,957,0.3,0.9,10.5,9.4
+MNE,MONTENEGRO,2005,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,891,2.2,4.2,15.7,7.9,2.2
+MNE,MONTENEGRO,2013,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,392,1.2,2.8,22.3,9.4
+MAR,MOROCCO,1987,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,4,404,1.5,3.9,5.6,31
+MAR,MOROCCO,1992,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,4,649,1.1,2.6,10.8,30.1
+MAR,MOROCCO,1997,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,3,653,2,4.7,13.7,28.9
+MAR,MOROCCO,2003,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,5,602,5,10.8,13.4,23.1
+MAR,MOROCCO,2011,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,6,873,1,2.3,10.8,14.9
+MAR,MOROCCO,2017,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,6,76,1.1,2.6,10.9,15.1
+MOZ,MOZAMBIQUE,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,586,,9.6,,59.9
+MOZ,MOZAMBIQUE,1997,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,621,4.3,9.8,5.9,48.7
+MOZ,MOZAMBIQUE,2001,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,18,68,604,3.6,8.1,8.8
+MOZ,MOZAMBIQUE,2003,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,9,52,2.1,5.4,6.3,46.9
+MOZ,MOZAMBIQUE,2008,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,691,1.3,4.2,3.6,43.5
+MOZ,MOZAMBIQUE,2011,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,10,697,2.4,6.1,7.8,42.9
+MOZ,MOZAMBIQUE,2015,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,37,39,713,1.7,4.4,7
+MMR,MYANMAR,1990,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,5,899,,,,
+MMR,MYANMAR,1991,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,5,540,,12.7,,53.6
+MMR,MYANMAR,1994,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,5,994,,9.2,,58.7
+MMR,MYANMAR,1995,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,19,908,,,,
+MMR,MYANMAR,1997,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,4,894,,9.6,9.7,55.4
+MMR,MYANMAR,2000,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,8,492,2.9,10.7,2.4,40.8
+MMR,MYANMAR,2003,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,5,874,3.7,11.7,6.9,42.7
+MMR,MYANMAR,2009,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,15,430,2.1,7.9,2.6,35.1
+MMR,MYANMAR,2016,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,4,204,1.3,6.6,1.5,29.4
+NAM,NAMIBIA,1992,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,2,553,3.2,9.6,4.5,35.6
+NAM,NAMIBIA,2000,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,4,273,3,10,3.3,29.3
+NAM,NAMIBIA,2007,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,5,151,2,7.6,4.7,29.2
+NAM,NAMIBIA,2013,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,2,610,2.8,7.1,4,22.7
+NRU,NAURU,2007,Oceania,Micronesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,267,0.2,1,2.8,24,4.8
+NPL,NEPAL,1995,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,6,781,,6,,68.2
+NPL,NEPAL,1996,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,3,972,2.8,12.6,0.7,65.7
+NPL,NEPAL,1998,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,17,471,1.4,7.9,0.4,61.1
+NPL,NEPAL,2001,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,6,556,2.8,11.3,0.7,56.1
+NPL,NEPAL,2006,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,5,342,2.7,12.7,0.6,49.1
+NPL,NEPAL,2011,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,2,521,2.9,11.2,1.5,40.1
+NPL,NEPAL,2014,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,5,218,3.2,11.3,2.1,37.1
+NPL,NEPAL,2016,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Low Income,South Asia,2,502,1.9,9.6,1.2,36.1
+NIC,NICARAGUA,1993,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,3,609,0.9,2.5,5.5,29.6
+NIC,NICARAGUA,1998,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,6,837,1.5,3.4,6.9,30.5
+NIC,NICARAGUA,2001,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,5,741,0.9,2.3,7.2,25.1
+NIC,NICARAGUA,2004,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,1,494,0,0.3,5.2,18.8
+NIC,NICARAGUA,2007,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,12,318,0.5,1.5,6.2,23.1
+NIC,NICARAGUA,2012,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,Lower Middle Income,Latin America & Caribbean,10,311,0.7,2.2,8.3,17.3
+NER,NIGER,1985,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,1,672,,25.3,,43.8
+NER,NIGER,1992,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,284,6.7,18.8,2,45.3
+NER,NIGER,1998,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,204,6.5,19.8,1.1,50.7
+NER,NIGER,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,831,6.1,16.2,1.7,53.5
+NER,NIGER,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,389,4.3,12.5,3.5,54.8
+NER,NIGER,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,822,6.7,18.2,3.1,43.5
+NER,NIGER,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,8,622,2.7,13.4,0.8,39.9
+NER,NIGER,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,31,95,429,2.5,12.4,0.4
+NER,NIGER,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,48,42,316,2.7,14.2,0.5
+NER,NIGER,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,32,30,436,2.1,10.4,1.1
+NER,NIGER,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,39,86,80,3,14.1,1
+NGA,NIGERIA,1990,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,854,4.4,11.7,3.3,48.7
+NGA,NIGERIA,1993,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,664,,20.6,5.5,43.8
+NGA,NIGERIA,2003,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,219,4.7,11.2,6.3,42.5
+NGA,NIGERIA,2007,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,13,323,6.6,13.4,13.3,39.2
+NGA,NIGERIA,2008,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,23,792,7.7,14.5,10.4,40.6
+NGA,NIGERIA,2011,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,24,169,3.1,10.2,3,35.8
+NGA,NIGERIA,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,28,947,9,18.1,5,36.5
+NGA,NIGERIA,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,19,949,1.8,7.9,1.8,33.6
+NGA,NIGERIA,2015,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,17,731,1.8,7.3,1.6,33
+NGA,NIGERIA,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,27,398,2.9,10.8,1.5,43.6
+NGA,NIGERIA,2018,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,12,695,1.8,6.8,2.1,36.8
+MKD,NORTH MACEDONIA,1999,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,,0.4,1.7,9.6,8,1.9
+MKD,NORTH MACEDONIA,2005,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,4,223,1.3,3.4,16.2,11.3
+MKD,NORTH MACEDONIA,2011,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,1,332,0.2,1.8,12.4,4.9
+OMN,OMAN,1991,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,764,,7.8,8.4,24.2,18.6
+OMN,OMAN,1994,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,639,0.8,7.2,1,21.1,10.4
+OMN,OMAN,1999,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,13,961,1.3,7.8,1.6,15.8
+OMN,OMAN,2009,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,8,105,0.8,7.1,1.7,9.8
+OMN,OMAN,2014,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,4,548,2.4,7.5,4.4,14.1
+OMN,OMAN,2017,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,,3.1,9.3,4.2,11.4,11.2
+PAK,PAKISTAN,1986,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,6,707,,24,7.8,62.5
+PAK,PAKISTAN,1991,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,4,433,4.8,12.5,5.4,53.9
+PAK,PAKISTAN,1992,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,3,240,5,17.2,1.6,42.7
+PAK,PAKISTAN,1995,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,7,368,,,,
+PAK,PAKISTAN,2001,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,10,27,5.8,14.1,4.8,41.4
+PAK,PAKISTAN,2011,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,2,39,46,326,5.8,14.9
+PAK,PAKISTAN,2013,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,3,838,3.3,10.5,4.8,45
+PAK,PAKISTAN,2018,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,EMRO,Lower Middle Income,South Asia,3,622,2.4,7.1,2.5,37.6
+PAN,PANAMA,1997,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,2,76,729,0.3,1.3,6.4
+PAN,PANAMA,2003,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,3,13,165,0.4,1.6,11.1
+PAN,PANAMA,2008,Latin America and the Caribbean,Central America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,2,88,853,0.3,1.2,9.7
+PNG,PAPUA NEW GUINEA,1983,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,27,510,1.2,5.5,3.1,46
+PNG,PAPUA NEW GUINEA,2005,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,924,0.8,4.4,3.4,43.9,18.1
+PNG,PAPUA NEW GUINEA,2010,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,9,45,911,6.4,14.1,13.7
+PRY,PARAGUAY,1990,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,450,0.2,0.6,6.3,18.3
+PRY,PARAGUAY,2005,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,4,83,612,,1.1,7.1
+PRY,PARAGUAY,2012,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,5,58,648,0.4,2.6,11.3
+PRY,PARAGUAY,2016,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,4,428,0.4,1,12.4,5.6
+PER,PERU,1991,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,7,205,0.6,1.9,9.3,37.3
+PER,PERU,1996,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,13,829,0.7,1.6,9.9,31.6
+PER,PERU,2000,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,10,710,0.4,1.1,11.8,31.3
+PER,PERU,2005,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,912,0.1,1,9.1,29.2
+PER,PERU,2007,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,7,911,0.2,0.8,10,28
+PER,PERU,2009,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,9,180,0.2,0.6,10.3,23.9
+PER,PERU,2010,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,8,726,0.1,0.7,8,23.3
+PER,PERU,2011,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,8,869,0.1,0.4,8.8,19.5
+PER,PERU,2012,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,9,190,0.1,0.6,7.2,18.4
+PER,PERU,2013,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,8,287,0.2,0.4,8.5,17.6
+PER,PERU,2014,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,9,136,0.1,0.6,8.8,14.8
+PER,PERU,2015,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,11,110,0.1,0.6,8.2,14.7
+PER,PERU,2016,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,10,541,0.1,0.6,7.7,13.1
+PER,PERU,2017,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,9,285,0.1,0.5,8,12.8
+PER,PERU,2018,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,8,859,0.1,0.5,8.6,12.2
+PHL,PHILIPPINES,1987,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,250,,5.7,,44.7
+PHL,PHILIPPINES,1990,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,629,,6.9,,43.3
+PHL,PHILIPPINES,1992,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,5,858,,8.8,1.7,40.9
+PHL,PHILIPPINES,1993,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,4,229,,9.1,,38.9
+PHL,PHILIPPINES,1998,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,24,308,,8,1.9,38.3
+PHL,PHILIPPINES,2003,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,499,1.6,6,2.4,33.8
+PHL,PHILIPPINES,2008,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,4,14,185,1.7,6.6
+PHL,PHILIPPINES,2011,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,6,5,19,772,2,7
+PHL,PHILIPPINES,2013,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,2,43,911,2.4,7.6
+PHL,PHILIPPINES,2015,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,4,32,478,1.6,6.8
+PHL,PHILIPPINES,2018,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,,5.6,4,30.3,19.1
+POL,POLAND,2009,Europe,Eastern Europe,Northern America and Europe,ECA,WE,EURO,High Income,Europe & Central Asia,,,,,2.9,
+POL,POLAND,2014,Europe,Eastern Europe,Northern America and Europe,ECA,WE,EURO,High Income,Europe & Central Asia,,,,,2.6,
+QAT,QATAR,1995,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,1,180,,2.1,10.4,11.6
+KOR,REPUBLIC OF KOREA,2003,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,High Income,East Asia & Pacific,2,40,0.2,0.9,6.2,2.5
+KOR,REPUBLIC OF KOREA,2009,Asia,Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,High Income,East Asia & Pacific,17,83,845,0.1,1.2,7.3
+MDA,REPUBLIC OF MOLDOVA,2005,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,1,581,2.4,5.8,8.9,10.7
+MDA,REPUBLIC OF MOLDOVA,2012,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,1,724,0.5,1.9,4.9,6.4
+ROU,ROMANIA,1991,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,10,957,,3.3,4,11.2
+ROU,ROMANIA,1999,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,21,103,0.8,3.6,10.1,15.3
+ROU,ROMANIA,2000,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,22,225,1.1,4.3,8.9,12.8
+ROU,ROMANIA,2001,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,22,667,1,3.9,9.1,14
+ROU,ROMANIA,2002,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,15,533,0.7,3.5,8.3,12.8
+RWA,RWANDA,1992,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,498,1.8,5,4,56.8
+RWA,RWANDA,1996,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,1,115,,11,,45.4
+RWA,RWANDA,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,6,793,3.8,8.7,7.1,47.9
+RWA,RWANDA,2005,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,999,1.7,4.9,6.7,51.4
+RWA,RWANDA,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,6,139,1.6,4.6,,52
+RWA,RWANDA,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,408,0.9,2.9,6.9,44.3
+RWA,RWANDA,2012,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,457,0.5,2.4,6,43.8
+RWA,RWANDA,2015,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,881,0.7,2.3,7.9,38.3
+RWA,RWANDA,2015,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,4,51,0.4,2,5.6,36.9
+LCA,SAINT LUCIA,2012,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,283,0.7,3.7,6.3,2.5,2.8
+WSM,SAMOA,1999,Oceania,Polynesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,1,107,,1.3,6.2,6.4
+WSM,SAMOA,2014,Oceania,Polynesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,2,961,1.3,3.9,5.3,4.9
+STP,SAO TOME AND PRINCIPE,1986,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,155,,6,,32
+STP,SAO TOME AND PRINCIPE,2000,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,737,1.2,3.9,9.3,35.5
+STP,SAO TOME AND PRINCIPE,2006,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,848,,9.6,15.4,28.9
+STP,SAO TOME AND PRINCIPE,2008,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,751,5,11.6,11.1,30.8
+STP,SAO TOME AND PRINCIPE,2014,Africa,Middle Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,1,939,0.8,4,2.4,17.2
+SAU,SAUDI ARABIA,1994,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,23,821,,2.9,1.2,21.4
+SAU,SAUDI ARABIA,2004,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,High Income,Middle East & North Africa,15,601,4.5,11.8,6.1,9.3
+SEN,SENEGAL,1986,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,630,1.2,5.1,2.3,26.5,17
+SEN,SENEGAL,1991,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,,,9,4,34.4,20.4
+SEN,SENEGAL,1993,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,47,3,9.4,4,29.8
+SEN,SENEGAL,1996,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,,,8.2,,28.8,19.6
+SEN,SENEGAL,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,10,98,683,2.9,10,3.2
+SEN,SENEGAL,2005,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,10,2.3,8.7,2.5,19.9
+SEN,SENEGAL,2011,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,925,2.3,9.8,2.7,26.7
+SEN,SENEGAL,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,27,514,1.2,8.7,0.7,15.5
+SEN,SENEGAL,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,961,1.9,9,1.4,18.8
+SEN,SENEGAL,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,978,0.7,5.9,1.3,18.8
+SEN,SENEGAL,2015,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,97,1.5,7.8,1,20.7
+SEN,SENEGAL,2016,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,750,1.2,7.1,0.9,17.1
+SEN,SENEGAL,2017,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,10,911,1.5,9,0.9,16.5
+SEN,SENEGAL,2019,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Lower Middle Income,Sub-Saharan Africa,9,358,2.2,8.1,2.6,18.8
+SRB,SERBIA,2005,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,525,1.8,4.5,19.3,8.1
+SRB,SERBIA,2010,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,4,0.8,3.5,15.6,6.6
+SRB,SERBIA,2014,Europe,Southern Europe,Northern America and Europe,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,353,1.1,3.9,13.9,6
+SYC,SEYCHELLES,1988,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,High Income,Sub-Saharan Africa,836,,2.7,5.8,7.7,5
+SYC,SEYCHELLES,2012,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,High Income,Sub-Saharan Africa,,1.2,4.3,10.2,7.9,3.6
+SLE,SIERRA LEONE,1989,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,424,,8.4,,41.4
+SLE,SIERRA LEONE,1990,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,595,,10.2,,40.9
+SLE,SIERRA LEONE,2000,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,1,977,3.9,11.6,4.8,35.5
+SLE,SIERRA LEONE,2005,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,429,4.2,10.2,5.9,45
+SLE,SIERRA LEONE,2008,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,52,4.6,10.5,10.1,37.2
+SLE,SIERRA LEONE,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,8,100,3.2,8.5,9.6,44.4
+SLE,SIERRA LEONE,2013,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,5,776,4.3,9.4,8.8,37.8
+SLE,SIERRA LEONE,2017,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,11,637,2.3,6.8,4.2,31
+SLE,SIERRA LEONE,2017,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,11,299,1,5.1,2,29.3
+SLE,SIERRA LEONE,2019,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,870,1.1,5.4,4.5,29.5
+SGP,SINGAPORE,2000,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,High Income,East Asia & Pacific,16,220,0.5,3.6,2.6,4.4
+SLB,SOLOMON ISLANDS,1989,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,980,2,7.4,1.9,33.7
+SLB,SOLOMON ISLANDS,2007,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,29,1.4,4.3,2.5,32.8
+SLB,SOLOMON ISLANDS,2015,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,767,3.6,8.5,4.5,31.7
+SOM,SOMALIA,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Low Income,Sub-Saharan Africa,3,582,,19.3,,29.2
+SOM,SOMALIA,2006,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Low Income,Sub-Saharan Africa,5,696,4.4,13.3,4.7,42
+SOM,SOMALIA,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Low Income,Sub-Saharan Africa,1,137,4.3,14.3,3,25.3
+ZAF,SOUTH AFRICA,1993,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,4,89,4.2,9.1,13.6,29.7
+ZAF,SOUTH AFRICA,1994,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,9,807,,3.3,10.3,28.7
+ZAF,SOUTH AFRICA,1999,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,1,556,,4.5,10.4,30.1
+ZAF,SOUTH AFRICA,2004,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,4,652,4.3,7.8,17.2,35.5
+ZAF,SOUTH AFRICA,2008,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,31,51,438,2.4,4.8,13.3
+ZAF,SOUTH AFRICA,2012,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,48,92,568,3.1,5.6,17.2
+ZAF,SOUTH AFRICA,2016,Africa,Southern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Upper Middle Income,Sub-Saharan Africa,1,416,0.6,2.5,13.3,27.4
+SSD,SOUTH SUDAN,2006,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Low Income,Sub-Saharan Africa,13,29,786,12.9,24.6,10.9
+SSD,SOUTH SUDAN,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,EMRO,Low Income,Sub-Saharan Africa,6,378,9.9,22.7,6,31.3
+LKA,SRI LANKA,1987,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,1,974,1.6,14.9,0.3,32.3
+LKA,SRI LANKA,1993,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,3,67,,17.5,,29.7
+LKA,SRI LANKA,1995,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,2,782,,15.3,,26.1
+LKA,SRI LANKA,2000,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,2,513,2.2,15.9,1.2,18.3
+LKA,SRI LANKA,2007,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,6,567,2.8,14.7,1.6,17.3
+LKA,SRI LANKA,2009,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,2,589,1.9,11.8,0.8,19.2
+LKA,SRI LANKA,2012,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,7,306,3,21.3,0.6,14.6
+LKA,SRI LANKA,2016,Asia,Southern Asia,Central Asia and Southern Asia,SA,SA,SEARO,Upper Middle Income,South Asia,8,59,3.1,15.1,2,17.3
+PSE,STATE OF PALESTINE,1996,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,,Lower Middle Income,Middle East & North Africa,4,20,0.9,3,4.3,7.8
+PSE,STATE OF PALESTINE,2002,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,,Lower Middle Income,Middle East & North Africa,936,,9.4,,16.1,
+PSE,STATE OF PALESTINE,2004,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,,Lower Middle Income,Middle East & North Africa,5,342,1.4,3.2,8.8,10.5
+PSE,STATE OF PALESTINE,2006,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,,Lower Middle Income,Middle East & North Africa,9,360,0.7,1.8,11.4,13.6
+PSE,STATE OF PALESTINE,2010,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,,Lower Middle Income,Middle East & North Africa,9,157,1,3.3,5.3,10.9
+PSE,STATE OF PALESTINE,2014,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,,Lower Middle Income,Middle East & North Africa,7,222,0.3,1.2,8.2,7.4
+SDN,SUDAN,2006,Africa,Northern Africa,Western Asia and Northern Africa,SSA,ESA,EMRO,Lower Middle Income,Sub-Saharan Africa,41,51,294,5.7,14.5,4.2
+SDN,SUDAN,2010,Africa,Northern Africa,Western Asia and Northern Africa,SSA,ESA,EMRO,Lower Middle Income,Sub-Saharan Africa,12,188,4.1,15.4,1.5,34.1
+SDN,SUDAN,2014,Africa,Northern Africa,Western Asia and Northern Africa,SSA,ESA,EMRO,Lower Middle Income,Sub-Saharan Africa,11,712,4.5,16.3,3,38.2
+SUR,SURINAME,2000,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,768,2,7,2.9,14.1
+SUR,SURINAME,2006,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,981,1,4.9,4,10.6
+SUR,SURINAME,2010,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,870,0.8,5,4,8.8
+SYR,SYRIAN ARAB REPUBLIC,1993,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,4,154,4.5,10,15,32.8
+SYR,SYRIAN ARAB REPUBLIC,1995,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,2,425,,10.4,,26.5
+SYR,SYRIAN ARAB REPUBLIC,2000,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,6,262,,4.9,,24.3
+SYR,SYRIAN ARAB REPUBLIC,2001,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,6,260,5.3,10.2,19.7,31.7
+SYR,SYRIAN ARAB REPUBLIC,2006,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,10,595,4.8,10.3,18.7,28.7
+SYR,SYRIAN ARAB REPUBLIC,2010,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,14,335,5.5,11.5,17.9,27.9
+TJK,TAJIKISTAN,1999,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,3,599,,11.4,,41.5
+TJK,TAJIKISTAN,2000,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,5,657,,9.4,,42.1
+TJK,TAJIKISTAN,2001,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,3,704,,19.4,,43.2
+TJK,TAJIKISTAN,2002,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,4,543,,6.1,,37.1
+TJK,TAJIKISTAN,2003,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,4,654,,5.9,,42.4
+TJK,TAJIKISTAN,2005,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,4,219,3.5,8.7,6.8,33.1
+TJK,TAJIKISTAN,2007,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,51,48,57,3,6.9,12
+TJK,TAJIKISTAN,2009,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,75,16,356,1.3,4.3,4.2
+TJK,TAJIKISTAN,2012,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,5,348,4.1,9.9,6.7,26.9
+TJK,TAJIKISTAN,2016,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,1,1.2,3.5,3.7,19.6,6.4
+TJK,TAJIKISTAN,2017,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Low Income,Europe & Central Asia,6,716,1.8,5.6,3.3,17.5
+THA,THAILAND,1987,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Upper Middle Income,East Asia & Pacific,1,843,0.9,5.7,1.3,24.6
+THA,THAILAND,1993,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Upper Middle Income,East Asia & Pacific,11,748,,7.3,,21.1
+THA,THAILAND,1995,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Upper Middle Income,East Asia & Pacific,4,178,,6.7,4.7,18.1
+THA,THAILAND,2006,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Upper Middle Income,East Asia & Pacific,47,11,296,1.4,4.7,8
+THA,THAILAND,2012,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Upper Middle Income,East Asia & Pacific,9,203,2.2,6.7,10.9,16.4
+THA,THAILAND,2016,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Upper Middle Income,East Asia & Pacific,11,189,1.4,5.4,8.2,10.5
+TLS,TIMOR-LESTE,2002,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,4,133,4.9,13.7,5.7,55.7
+TLS,TIMOR-LESTE,2003,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,5,255,,14.3,,54.8
+TLS,TIMOR-LESTE,2007,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,1,45,253,4.5,21.3,1.5
+TLS,TIMOR-LESTE,2009,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,9,114,7.6,18.9,5.8,57.5
+TLS,TIMOR-LESTE,2013,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,SEARO,Lower Middle Income,East Asia & Pacific,14,51,858,2.1,9.9,1.6
+TGO,TOGO,1988,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,1,667,1.4,5.9,2.9,40.7
+TGO,TOGO,1996,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,761,,,,40.2
+TGO,TOGO,1998,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,603,3.6,12.4,2.3,33.2
+TGO,TOGO,2006,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,595,6.3,15.5,4.8,29.9
+TGO,TOGO,2008,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,,0.7,6,,26.9,20.5
+TGO,TOGO,2010,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,625,1,4.8,1.6,29.8
+TGO,TOGO,2012,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,2,564,0.7,5.5,1.7,26.2
+TGO,TOGO,2014,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,3,325,1.5,6.6,2,27.6
+TGO,TOGO,2017,Africa,Western Africa,Sub-Saharan Africa,SSA,WCA,AFRO,Low Income,Sub-Saharan Africa,4,919,1.1,5.7,1.5,23.8
+TON,TONGA,1986,Oceania,Polynesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,1,94,,1.3,,2.2
+TON,TONGA,2012,Oceania,Polynesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,,2.1,5.2,17.3,8.1,1.8
+TTO,TRINIDAD AND TOBAGO,1987,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,826,1.2,4.8,3.5,6.3,6.2
+TTO,TRINIDAD AND TOBAGO,2000,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,761,0.9,5.2,5,5.3,4.3
+TTO,TRINIDAD AND TOBAGO,2011,Latin America and the Caribbean,Caribbean,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,1,95,2.1,6.4,11.4,9.2
+TUN,TUNISIA,1988,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,2,15,0.6,3.1,3.7,18.5
+TUN,TUNISIA,1997,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,891,,7.2,1.4,11.9,3.3
+TUN,TUNISIA,2000,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,10,553,,2.9,,16.8
+TUN,TUNISIA,2006,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,2,842,1.2,3.4,8.8,9
+TUN,TUNISIA,2012,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,2,677,1.7,2.8,14.3,10.1
+TUN,TUNISIA,2018,Africa,Northern Africa,Western Asia and Northern Africa,MENA,MENA,EMRO,Lower Middle Income,Middle East & North Africa,3,340,0.9,2.1,17.2,8.4
+TUR,TURKEY,1993,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,255,1,3.9,4.9,23.6
+TUR,TURKEY,1995,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,871,,,,
+TUR,TURKEY,1998,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,867,0.8,3,3.8,18.8
+TUR,TURKEY,2004,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,772,0.4,1.1,8.8,15.2
+TUR,TURKEY,2008,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,694,0.3,1,9.8,12.5
+TUR,TURKEY,2013,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,651,0.5,1.9,11.1,10
+TUR,TURKEY,2018,Asia,Western Asia,Western Asia and Northern Africa,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,15,0.6,1.7,8.1,6
+TKM,TURKMENISTAN,2000,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,928,,7.1,,28.1
+TKM,TURKMENISTAN,2006,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,2,40,2.1,7.2,4.5,18.9
+TKM,TURKMENISTAN,2015,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Upper Middle Income,Europe & Central Asia,3,718,1.1,4.2,5.9,11.5
+TUV,TUVALU,2007,Oceania,Polynesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Upper Middle Income,East Asia & Pacific,430,0.9,3.3,6.3,10,1.6
+UGA,UGANDA,1988,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,3,819,0.9,3.1,3.6,47.7
+UGA,UGANDA,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,12,2,5.9,5,45.7
+UGA,UGANDA,2000,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,6,315,1.5,5,4.9,44.9
+UGA,UGANDA,2006,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,2,742,2.2,6.2,4.9,38.4
+UGA,UGANDA,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,30,86,438,1.4,4.4,3.2
+UGA,UGANDA,2011,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,2,395,1.5,4.6,3.8,33.5
+UGA,UGANDA,2012,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,29,47,915,0.3,4.2,5.8
+UGA,UGANDA,2014,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,35,37,402,0.9,3.8,3.6
+UGA,UGANDA,2016,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,136,1.3,3.5,3.7,28.9
+UKR,UKRAINE,2000,Europe,Eastern Europe,Northern America and Europe,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,4,247,3.8,8.2,26.5,22.9
+TZA,UNITED REPUBLIC OF TANZANIA,1991,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,6,400,2.8,7.8,5.8,49.9
+TZA,UNITED REPUBLIC OF TANZANIA,1996,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,5,561,2.9,8.5,4.6,49.6
+TZA,UNITED REPUBLIC OF TANZANIA,1999,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,2,649,2,5.6,3.3,48.3
+TZA,UNITED REPUBLIC OF TANZANIA,2004,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,8,168,1,3.5,4.9,44.4
+TZA,UNITED REPUBLIC OF TANZANIA,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,52,11,951,0.8,2.9,4.7
+TZA,UNITED REPUBLIC OF TANZANIA,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,7,676,1.3,4.9,5.4,42.1
+TZA,UNITED REPUBLIC OF TANZANIA,2011,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,64,97,375,1.7,6.2,5.1
+TZA,UNITED REPUBLIC OF TANZANIA,2013,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,63,52,19,1.5,4.4,5.1
+TZA,UNITED REPUBLIC OF TANZANIA,2014,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,,0.9,3.8,3.5,34.7,13.4
+TZA,UNITED REPUBLIC OF TANZANIA,2015,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,9,886,1.2,4.5,3.7,34.5
+TZA,UNITED REPUBLIC OF TANZANIA,2018,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Low Income,Sub-Saharan Africa,,0.4,3.5,2.8,31.8,14.6
+USA,UNITED STATES,1991,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,0.1,0.7,5.4,3.2,0.9
+USA,UNITED STATES,2000,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,0,0.4,7,3.3,1.1
+USA,UNITED STATES,2004,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,0.1,0.8,8.1,3.2,1.1
+USA,UNITED STATES,2008,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,0,0.5,7.8,2.7,0.8
+USA,UNITED STATES,2012,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,2,0,32,760,0,0.6
+USA,UNITED STATES,2014,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,,0.3,8.2,2.4,
+USA,UNITED STATES,2016,Northern America,Northern America,Northern America and Europe,NA,NA,AMRO,High Income,North America,,,0.4,9.4,3.5,
+URY,URUGUAY,1987,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,3,471,,,,21
+URY,URUGUAY,1999,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,11,413,0.8,2.3,9,12.8
+URY,URUGUAY,2002,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,7,91,0.5,2.4,10,14.7
+URY,URUGUAY,2003,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,2,787,0.9,2.8,11.5,15.8
+URY,URUGUAY,2004,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,7,12,0.7,3,9.4,13.9
+URY,URUGUAY,2007,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,3,4,1,2.5,7.9,10.8
+URY,URUGUAY,2011,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,High Income,Latin America & Caribbean,2,979,0,1.3,7.2,10.7
+UZB,UZBEKISTAN,1996,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,1,148,6.1,10.7,15.9,39.5
+UZB,UZBEKISTAN,2002,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,2,524,3.9,9,11,24.9
+UZB,UZBEKISTAN,2006,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,4,883,1.6,4.4,12.2,19.6
+UZB,UZBEKISTAN,2017,Asia,Central Asia,Central Asia and Southern Asia,ECA,EECA,EURO,Lower Middle Income,Europe & Central Asia,2,62,0.3,1.8,4.6,10.8
+VUT,VANUATU,1996,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,297,,6.8,,25.7
+VUT,VANUATU,2007,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,342,1.9,5.9,4.7,25.7
+VUT,VANUATU,2013,Oceania,Melanesia,Oceania excluding Australia and New Zealand,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,328,1.5,4.7,4.9,28.9
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1987,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,18,23,,2.2,9,7
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1990,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,1,80,709,,5.7,4
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1991,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,61,95,,4.5,4.3
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1992,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,57,491,,4.3,4.9
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1993,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,56,344,,4,4.9
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1994,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,35,552,,3.8,5
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1995,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,41,155,,3.8,4.7
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1996,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,44,701,,3.8,4.7
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1997,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,91,749,,3.8,5
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1998,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,99,531,,4.4,4.9
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),1999,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,77,496,,4,5.2
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2000,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,3,21,257,,3.9,5.3
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2001,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,4.4,5.4,17.3,4
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2002,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,4.8,5.4,17.6,4.2
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2003,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,5.2,5.3,17.7,4.6
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2004,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,5.2,5.2,17.1,4.5
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2005,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,4.8,5.5,16.2,4.1
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2006,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,4.8,6.1,16.2,3.9
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2007,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,2,42,775,,5,6.1
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2008,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,4.5,6.3,14.6,3.2
+VEN,VENEZUELA (BOLIVARIAN REPUBLIC OF),2009,Latin America and the Caribbean,South America,Latin America and the Caribbean,LAC,LAC,AMRO,Upper Middle Income,Latin America & Caribbean,,,4.1,6.4,13.4,2.9
+VNM,VIET NAM,1988,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,7,44,,11.1,,61.3
+VNM,VIET NAM,1993,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,2,702,1.3,6.7,2.9,61.5
+VNM,VIET NAM,1994,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,37,764,,13.5,,52.5
+VNM,VIET NAM,1998,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,12,919,,11.9,1.4,42.1
+VNM,VIET NAM,1999,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,540,2.8,11,1.8,43.7
+VNM,VIET NAM,2000,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,41,1,6.1,2.6,43.2
+VNM,VIET NAM,2002,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,529,2.4,8.9,2.6,37.5
+VNM,VIET NAM,2003,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,457,2.8,10.9,2.2,35.4
+VNM,VIET NAM,2004,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,500,2.8,11.3,2.7,33.7
+VNM,VIET NAM,2005,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,493,2.8,10.7,2.6,33.2
+VNM,VIET NAM,2006,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,531,2.5,9.9,3.1,31.8
+VNM,VIET NAM,2007,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,507,2.4,10.1,2.9,32.2
+VNM,VIET NAM,2008,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,1,484,2.5,9.7,3,30.5
+VNM,VIET NAM,2009,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,3.8,7.1,5.6,29.3,17.5
+VNM,VIET NAM,2010,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,3,607,1.2,4.1,4.5,22.7
+VNM,VIET NAM,2011,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,,6.6,,27.5,16.8
+VNM,VIET NAM,2012,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,,6.7,4.8,26.7,16.2
+VNM,VIET NAM,2013,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,1.3,6.6,4.6,25.9,15.3
+VNM,VIET NAM,2014,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,4.8,6.8,3.5,24.9,14.5
+VNM,VIET NAM,2015,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,1.4,6.4,5.3,24.6,14.1
+VNM,VIET NAM,2016,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,,,,24.3,13.8
+VNM,VIET NAM,2017,Asia,South-Eastern Asia,Eastern Asia and South-eastern Asia,EAP,EAP,WPRO,Lower Middle Income,East Asia & Pacific,,1.2,5.8,5.9,23.8,13.4
+YEM,YEMEN,1991,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,3,120,5.4,14.1,8.1,50.4
+YEM,YEMEN,1996,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,3,833,,17.4,6.9,50.4
+YEM,YEMEN,1997,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,8,222,6.8,16.5,3.7,55.2
+YEM,YEMEN,2003,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,7,801,6.4,15.3,4.9,57.3
+YEM,YEMEN,2005,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,27,29,321,4.4,13.8,6.3
+YEM,YEMEN,2011,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,37,69,453,3.4,13.3,1.5
+YEM,YEMEN,2013,Asia,Western Asia,Western Asia and Northern Africa,MENA,MENA,EMRO,Low Income,Middle East & North Africa,14,624,5.4,16.4,2.5,46.4
+ZMB,ZAMBIA,1992,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,57,2.2,6.3,4.7,46.3
+ZMB,ZAMBIA,1995,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,,,,,58.1,
+ZMB,ZAMBIA,1996,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,612,1.7,5.3,6.2,48.6
+ZMB,ZAMBIA,1999,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,11,5,300,1.8,5,14
+ZMB,ZAMBIA,2002,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,23,2.3,6.2,5.9,52.5
+ZMB,ZAMBIA,2007,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,933,2.3,5.6,8.4,45.8
+ZMB,ZAMBIA,2013,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,12,877,2.5,6.2,6.2,40
+ZMB,ZAMBIA,2018,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,9,689,1.5,4.2,5.2,34.6
+ZWE,ZIMBABWE,1987,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,4,19,964,,,
+ZWE,ZIMBABWE,1988,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,470,0.4,1.7,5.4,31
+ZWE,ZIMBABWE,1994,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,2,70,1.7,5.3,6.4,28.5
+ZWE,ZIMBABWE,1999,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,3,182,4.1,8.3,10.5,33.8
+ZWE,ZIMBABWE,2005,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,273,2.9,7.2,8.8,35.3
+ZWE,ZIMBABWE,2009,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,196,0.5,2.4,3.5,35.1
+ZWE,ZIMBABWE,2010,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,414,0.8,3.2,5.8,32.2
+ZWE,ZIMBABWE,2014,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,9,591,0.7,3.2,3.6,27.6
+ZWE,ZIMBABWE,2015,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,6,380,1.1,3.3,5.6,27.1
+ZWE,ZIMBABWE,2019,Africa,Eastern Africa,Sub-Saharan Africa,SSA,ESA,AFRO,Lower Middle Income,Sub-Saharan Africa,5,978,0.3,2.9,2.5,23.5
